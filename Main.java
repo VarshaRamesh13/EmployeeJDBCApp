@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     static final String DB_URL = "jdbc:mysql://localhost:3306/employeeDB";
-    static final String USER = "root";
+    static final String USER = "varsha";
     static final String PASS = "yourpassword"; // Replace with your MySQL password
 
     public static void main(String[] args) {
